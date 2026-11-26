@@ -1,0 +1,43 @@
+{
+  "interface": {
+    "displayName": "Creative Exploration Lab",
+    "shortDescription": "开放创意 · 按需探索 · 反向转译验收",
+    "longDescription": "通用创意探索实验室：三种独立研究起点、开放知识优先随机采样、开放实验与机制迁移，按需加载专业模块，以反向转译和独立批评保护核心创意，保留二次元封面规范，不建立视觉基因库。",
+    "developerName": "你蝶",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "从三个不同起点开放探索这个主题，不预设创意的媒介；通过研究、联想或实验发现机制，再转译为我需要的成果。",
+      "按确认方案严格执行，保留核心机制、原始素材、文案和交付约束。"
+    ]
+  },
+  "name": "anime-cover-art-director-plugin",
+  "version": "4.1.1",
+  "description": "通用创意探索实验室：三种独立研究起点、开放知识优先随机采样、开放实验与机制迁移，按需加载专业模块，以反向转译和独立批评保护核心创意，保留二次元封面规范，不建立视觉基因库。",
+  "author": {
+    "name": "你蝶"
+  },
+  "keywords": [
+    "creative design",
+    "synesthesia",
+    "lateral thinking",
+    "research",
+    "experimental media",
+    "anime",
+    "vtuber",
+    "typography",
+    "branding",
+    "motion design",
+    "ui ux",
+    "open creative system",
+    "design critique",
+    "creative experiments",
+    "creative exploration",
+    "mechanism transfer",
+    "emergence",
+    "systems design",
+    "creative translation",
+    "counterevidence"
+  ],
+  "skills": "./skills"
+}
