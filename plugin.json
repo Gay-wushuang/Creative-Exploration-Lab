@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "anime-cover-art-director-plugin",
-  "version": "4.1.1",
+  "version": "4.2.0",
   "description": "通用创意探索实验室：三种独立研究起点、开放知识优先随机采样、开放实验与机制迁移，按需加载专业模块，以反向转译和独立批评保护核心创意，保留二次元封面规范，不建立视觉基因库。",
   "author": {
     "name": "你蝶"
